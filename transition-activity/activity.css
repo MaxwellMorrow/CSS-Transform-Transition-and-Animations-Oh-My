@@ -1,1 +1,11 @@
 
+
+button {
+    transition-property: color;
+    transition:all 2s;
+}
+
+button:hover {
+    background-color:cornflowerblue;
+    color: white;
+}
